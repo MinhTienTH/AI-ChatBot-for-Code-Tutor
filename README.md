@@ -2,7 +2,7 @@
 
 Welcome to the **AI ChatBot for Code Tutor**! This project is a Flask-based web application that provides an interactive chatbot designed to assist users with programming-related queries. The chatbot uses OpenAI’s API to generate context-aware responses, making it a valuable tool for learning, debugging, and exploring coding concepts.
 
-![Description](AI-ChatBot-for-Code-Tutor/Demo.png)
+![Demo of AI ChatBot for Code Tutor](Demo.png)
 
 ## Table of Contents
 - [Features](#features)
